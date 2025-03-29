@@ -8,7 +8,7 @@ Project Objectives
 * Analyze geographic distribution of crimes
 * Visualize findings using plots and charts
 
-Data
+Data  
 The dataset comes from the City of Chicago’s open data portal and includes all reported crimes in 2024. It contains columns such as crime type, date, location, and police response.
 
 Tools Used
@@ -24,11 +24,11 @@ Key Insights
 * Areas with highest crime concentration
 * Summary statistics of crime frequency
 
-Getting Started
+Getting Started  
 To run this project:
 1. Clone the repository
 2. Open the Jupyter Notebook file
 3. Run the notebook to see the full analysis
 
-License
+License  
 This project is for educational purposes only.
