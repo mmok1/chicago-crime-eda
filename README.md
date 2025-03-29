@@ -13,6 +13,7 @@ The dataset, Crimes-2024, comes from the City of Chicago’s open data portal an
 
 Tools Used
 * Python
+* SQL
 * Pandas
 * Matplotlib
 * Seaborn
