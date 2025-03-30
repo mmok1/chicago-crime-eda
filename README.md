@@ -20,10 +20,10 @@ Tools Used
 * Jupyter Notebook
 
 Key Insights
-* Most common types of crimes reported in 2024
-* Peak months and days for criminal activity
-* Areas with highest crime concentration
-* Summary statistics of crime frequency
+* Theft, battery, and criminal damage were the most common crimes in 2024
+* Crimes peaked during summer months and on Fridays
+* Most crimes occurred between 12 PM   and 10 PM
+* Certain districts had consistently higher crime volumes
 
 Getting Started  
 To run this project:
