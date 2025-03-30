@@ -2,11 +2,12 @@
 This project explores reported crimes in Chicago during the year 2024. Using Python and Pandas, the analysis summarizes key statistics, identifies trends over time and location, and highlights patterns in offense types. The goal is to better understand the distribution and frequency of crime across the city using publicly available data.
 
 Project Objectives
-* Perform data cleaning and preprocessing
-* Compute summary statistics (mean, median, mode, etc.)
-* Explore crime trends by time (e.g., month, day of week)
-* Analyze geographic distribution of crimes
-* Visualize findings using plots and charts
+* Clean and prepare raw crime data
+* Generate descriptive statistics (mean, median, mode, etc.)
+* Analyze crime trends by month, day of week, and hour
+* Identify the most common crime types
+* Explore geographic distribution of crimes by district and community area
+* Use SQL queries to support data filtering and aggregation
 
 Data  
 The dataset, Crimes-2024, comes from the City of Chicago’s open data portal and includes all reported crimes in 2024. It contains columns such as crime type, date, location, and police response. ACS 5 Year Data by Ward is provided by the City of Chicago and has various socio-economic information about different wards in Chicago, but we are mainly interested in income levels. We also a 2024 weather report of Chicago, provided by Visual Crossing Weather Data Service. This dataset has information such as average temperature, wind speed, and other weather data for each day of 2024 in Chicago.
